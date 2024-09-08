@@ -1,4 +1,6 @@
-![exuilogo](https://github.com/user-attachments/assets/63455126-389c-4152-89f8-edd8fe50c807) **exUI**
+![exuilogo](https://github.com/user-attachments/assets/63455126-389c-4152-89f8-edd8fe50c807) 
+
+**exUI**
 
 ***Documentation***
 
